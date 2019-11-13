@@ -1,7 +1,8 @@
+<!-- Author: Krishna Rohan Samavedam -->
 <?php
     $hn = 'localhost';
     $un = 'developer';
     $pw = '#loc99@45aldev';
-    $db = 'homework6db';
+    $db = 'adminInfo';
     // #loc99@45aldev
 ?>
